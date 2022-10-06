@@ -1,7 +1,7 @@
 /**
- * Clayton Cafiero
+ * Joe Vassallo
  * CS 124
- * 28-Dec-2020
+ * 20-June-2021
  *
  * Insertion sort
  */

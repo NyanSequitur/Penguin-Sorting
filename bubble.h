@@ -1,7 +1,7 @@
 /**
- * Egbert Porcupine
+ * Joe Vassallo
  * CS 124
- * 27-Dec-2020
+ * 20-June-2021
  * 
  * Bubble sort
  */
